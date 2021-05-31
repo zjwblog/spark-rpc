@@ -1,0 +1,11 @@
+target
+.idea
+*.jar
+*.iml
+dependency-reduced-pom.xml
+*.tgz
+assembly/recommender-system
+recommender-system
+libs
+INFO
+.DS_Store
